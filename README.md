@@ -15,7 +15,7 @@ A simple and clean **To-Do app** built with React Native using functional compon
 ![All Tasks](demo_shots/All_Tasks.png)
 
 ## 2.High Importance Tasks
-![High Importance Tasks}(demo_shots/high_importance_tasks.png)
+![High Importance Tasks](demo_shots/high_importance_tasks.png)
 
 ## 3 .Create Tasks
 ![Create Tasks](demo_shots/create_tasks.png)
