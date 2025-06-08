@@ -13,3 +13,4 @@ A simple and clean **To-Do app** built with React Native using functional compon
 ## 📸 Screenshots
 
 
+demo_shots/All_Tasks.png
